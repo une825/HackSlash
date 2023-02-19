@@ -1,0 +1,13 @@
+Temp/
+obj/
+UnityGenerated/
+Library/
+Logs/
+UserSettings
+
+**/Builds/
+
+
+*.suo
+*.sln
+.vs/
